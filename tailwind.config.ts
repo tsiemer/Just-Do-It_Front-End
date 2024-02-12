@@ -15,6 +15,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  // plugins: [function({ addUtilities, addComponents, e, config }) {
+  //   // Add your custom styles here
+  // }],
 };
 export default config;
